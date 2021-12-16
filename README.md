@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🔭 I’m currently working on this README.md, tutoring projects, bad-guy-sword and gathering Python resources
 <!--
 **erknuepp/erknuepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
